@@ -1,6 +1,6 @@
 # API_Testing_With_newman
 **Technology used**
-1. Postman 
+1. Newman 
 
 **Pre Requisites:**
 1. node.js
